@@ -31,7 +31,7 @@ def load_data():
     possible_paths = [
         "../../Airline_Delay_Cause.csv",
         "Airline_Delay_Cause.csv",
-        "/Users/dote/Documents/UCSD/MGTA452 - Large Data/Final Project/mgta-452-final-project/aviation-analytics/Airline_Delay_Cause.csv"
+        "/mount/src/mgta-452-final-project/aviation-analytics/Airline_Delay_Cause.csv"
     ]
     
     df = None
